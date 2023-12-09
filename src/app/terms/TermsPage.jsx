@@ -1,5 +1,3 @@
-"use client";
-
 import React from "react";
 import xss from "xss";
 import { useEffect, useState } from "react";
