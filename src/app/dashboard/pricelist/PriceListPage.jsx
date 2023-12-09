@@ -1,5 +1,6 @@
 "use client";
 
+import React from "react";
 import { useEffect, useRef, useState } from "react";
 import { IconPrinter } from "@tabler/icons-react";
 import { Center } from "@mantine/core";

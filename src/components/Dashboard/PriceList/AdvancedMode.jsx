@@ -1,3 +1,4 @@
+import React from "react";
 import { useDisclosure } from "@mantine/hooks";
 import { Button, Center, Group, Modal, Text } from "@mantine/core";
 import { IconToggleRight } from "@tabler/icons-react";

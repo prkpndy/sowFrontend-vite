@@ -1,3 +1,4 @@
+import React from "react";
 import { useDisclosure } from "@mantine/hooks";
 import { Center, Modal, Text, TextInput } from "@mantine/core";
 import { useState } from "react";

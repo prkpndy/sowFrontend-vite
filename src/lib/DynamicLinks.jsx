@@ -1,3 +1,5 @@
+import React from "react";
+
 export default function renderDynamicLinks(text, openWindow) {
   const linkRegex = /\[([^\]]+)\]\(([^)]+)\)/g;
   const parts = [];

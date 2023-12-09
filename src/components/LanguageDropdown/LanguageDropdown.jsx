@@ -1,5 +1,7 @@
 "use client";
 
+import React from "react";
+
 import "./languageDropdown.css";
 import englishLogo from "../../assets/english.png";
 

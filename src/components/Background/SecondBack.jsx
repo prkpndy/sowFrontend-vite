@@ -1,3 +1,5 @@
+import React from "react";
+
 import bgimage from "../../assets/background.jpg";
 
 export default function SecondBack() {

@@ -1,3 +1,4 @@
+import React from "react";
 import { Text } from "@mantine/core";
 import { BsThreeDots } from "react-icons/bs";
 

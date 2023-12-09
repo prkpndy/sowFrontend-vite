@@ -1,4 +1,4 @@
-// import { Config } from "@/lib/Config";
+import React from "react";
 
 export default function Back() {
   // const config = Config();

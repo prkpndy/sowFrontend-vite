@@ -1,3 +1,5 @@
+import React from "react";
+
 export default function Sorting() {
   return (
     <div className="cursor-pointer" onClick={() => console.log("Sort clicked")}>

@@ -1,5 +1,6 @@
 "use client";
 
+import React from "react";
 import { useState, useCallback, useEffect, useRef } from "react";
 import { BiMenu } from "react-icons/bi";
 import { NavLink as Link } from "react-router-dom";
