@@ -9,7 +9,7 @@ export default function SecondBack() {
         <div
           style={{
             position: "fixed",
-            width: "100vh",
+            height: "100vh",
           }}
         >
           <img
@@ -18,7 +18,7 @@ export default function SecondBack() {
             alt={""}
             style={{
               width: "100%",
-              height: "100%",
+              height: "100vh",
               position: "fixed",
               top: "0",
               left: "0",

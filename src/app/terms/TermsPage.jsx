@@ -54,7 +54,7 @@ export default function TermsPage() {
 
   return (
     <section>
-      <SecondBack height={"100%"} />
+      <SecondBack />
       <Navbar />
 
       <section style={{ position: "relative" }}>
